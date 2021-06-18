@@ -15,4 +15,4 @@ large amount of people along with a report from the company itself.
 In order to achieve the required automation, I have used the following libraries:
   - Microsoft Outlook Object Library
   - Microsoft Scripting Runtime Library
-You can find these libraries under the References section of your Microsoft Excel VBA.
+ ### You can find these libraries under the References section of your Microsoft Excel VBA.
