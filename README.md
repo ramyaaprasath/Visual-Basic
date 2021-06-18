@@ -13,6 +13,6 @@ Outlook as their default email program.
 This project has assumed a situation where the user has to send an email to a
 large amount of people along with a report from the company itself.
 In order to achieve the required automation, I have used the following libraries:
-• Microsoft Outlook Object Library
-• Microsoft Scripting Runtime Library
+  • Microsoft Outlook Object Library
+  • Microsoft Scripting Runtime Library
 You can find these libraries under the References section of your Microsoft Excel VBA
